@@ -18,7 +18,9 @@
             $inventario = $row["Stock"];
             $producto = $row["nombre"];
             $precio = $row["precio"];
-            echo $id."".$producto."".$categoria."".$precio."".$inventario."<P>";
+            echo $id."".$producto."".$categoria."".$precio."".$inventario."<br>";
+            echo "<a href='delete.php?id=".$id."'>DELETE </a><br>";
+            echo "<a href='update.php?id=".$id."'>UPDATE </a><P>";
         
         }
 
