@@ -21,6 +21,9 @@
             echo $id."".$producto."".$categoria."".$precio."".$inventario."<br>";
             echo "<a href='delete.php?id=".$id."'>DELETE </a><br>";
             echo "<a href='update.php?id=".$id."'>UPDATE </a><P>";
+
+
+            
         
         }
 
