@@ -5,5 +5,10 @@
     $dbname = "base_final";
     $conex = new mysqli($servername,$user,$password,$dbname);
  
+
+
+
+
+    
      
  ?>
