@@ -22,4 +22,5 @@
     echo "<p>Precio Del Producto: <input type=float name='precioUP' placeholder='$precio'></p>";
 
     echo "<input type='submit' value='Actualizar'>";
+    
 ?>

@@ -29,4 +29,6 @@
     }
 
     echo "<br>" . "<a href='index.php'> Pagina Principal</a>";
+
+    
 ?>
